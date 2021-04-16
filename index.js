@@ -25,6 +25,5 @@ function updateMap() {
             });
         })
 }
-let interval=20000;//20s
-setInterval(updateMap,interval);
+updateMap();
 
